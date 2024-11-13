@@ -1,3 +1,4 @@
+# About me💫
 ¡Hola! Soy un apasionado programador de 19 años de Perú, con un hambre insaciable de aprender y mejorar continuamente. Mi objetivo es sobresalir en el mundo del desarrollo, y tengo un gran interés en participar en proyectos innovadores que desafíen mis habilidades. Estoy siempre en busca de nuevas oportunidades para colaborar, adquirir experiencia y aportar valor en equipos dinámicos.<br><br>Con una mentalidad enfocada en el crecimiento, me comprometo a enfrentar desafíos con creatividad, perseverancia y dedicación. Si estás buscando a alguien con determinación y ganas de marcar la diferencia, ¡me encantaría ser parte de tu próximo proyecto!
 
 
