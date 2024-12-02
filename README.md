@@ -88,7 +88,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
+<a href="https://stackoverflow.com/users/28578891/eliseo-king"><img src="https://github-readme-stackoverflow.vercel.app/?userID=28578891&theme=dark">
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
   <a href="https://github.com/trinib?tab=repositories&sort=stargazers">
