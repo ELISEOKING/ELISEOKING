@@ -2,9 +2,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-<!--🖼️RICK-->
+<!--🖼️KING-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+<img src="https://i.imgur.com/7A5ZfPJ.gif" height="222" width="500">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -14,15 +14,15 @@
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<a href="https://youtu.be/Yd7vDterctQ?si=aPtIZJOtoEd9Wk07"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-peru.gif?raw=true" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-peru.gif?raw=true" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-peru.gif?raw=true" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-peru.gif?raw=true" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-peru.gif?raw=true" height="50" width="50">
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
@@ -109,44 +109,44 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=ELISEOKING&show_icons=true&theme=merko&border_color=599200">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200">
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=ELISEOKING&theme=merko&border=599200">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=ELISEOKING&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
-<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=ELISEOKING&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+<img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=ELISEOKING&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=14602915&theme=dark">
+<a href="https://stackoverflow.com/users/28578891/trinib?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=28578891&theme=dark">
   
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
-  <a href="https://github.com/trinib?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a>
-<a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/ELISEOKING?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ELISEOKING"/></a>
+<a href="https://github.com/ELISEOKING?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ELISEOKING?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=ELISEOKING&color=0E9C47&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=ELISEOKING&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
