@@ -2,32 +2,29 @@ name: Snake Animation
 
 on:
   schedule:
-    # Ejecuta la acción cada 24 horas.
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-    # Permite ejecutar el flujo de trabajo manualmente.
+    - cron: "0 0 * * *" # Se ejecuta diariamente a medianoche
+  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    steps:
-      - name: Clona el repositorio
-        uses: actions/checkout@v2
 
-      - name: Genera la animación del snake
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: Generar la animación del snake
         uses: Platane/snk@v2.0.0
         with:
-          # Reemplaza "ELISEOKING" con tu nombre de usuario
-          github_user_name: ELISEOKING
-          # Salida en SVG para incrustar en el README
-          outputs: "dist/snake.svg"
+          github_user_name: ELISEOKING # Tu nombre de usuario
+          outputs: dist/snake.svg
 
-      - name: Agrega la animación al repositorio
+      - name: Publicar la animación
         run: |
           mkdir -p assets
           mv dist/snake.svg assets/
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Agregado Snake Animation"
+          git add assets/snake.svg
+          git commit -m "Actualiza snake.svg"
           git push
