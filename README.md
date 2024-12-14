@@ -130,10 +130,10 @@
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=ELISEOKING&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
+  <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=ELISEOKING&theme=merko&layout=compact&border_color=599200&langs_count=6" width="35%">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
