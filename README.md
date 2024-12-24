@@ -119,7 +119,7 @@
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
+<img src="https://raw.githubusercontent.com/ELISEOKING/github-stats-terminal/2dde597d824a1a5892957be8b7a48c6a356dd40d/github_stats.svg">
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
