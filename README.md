@@ -175,7 +175,7 @@
   <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
 <p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/ELISEOKING/ELISEOKING/08be444563d2e49b072bf95f37c1a765437d1585/github-metrics.svg">
+<img src="https://github.com/ELISEOKING/ELISEOKING/blob/3b7c4d40425b9148da85d8b1e8caae7bcf645727/github-metrics.svg">
 </p>
 </details>
 
